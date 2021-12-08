@@ -10,4 +10,4 @@ Help to scan any QRCode using camera and show the output to a ListView.
 
 Video Demo: https://imgur.com/dZAUfpB
 
-![Sample](https://imgur.com/YcpPSYU)
+[![Watch the video](https://i.imgur.com/YcpPSYU.png)](https://www.youtube.com/watch?v=fSwMqm0PXd4)
